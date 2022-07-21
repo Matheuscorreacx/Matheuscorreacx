@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_matheuscx" target="blank"><img src="https://img.shields.io/twitter/follow/_matheuscx?logo=twitter&style=for-the-badge" alt="_matheuscx" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, Laravel and Python**
+- 🌱 I’m currently learning **PHP, JavaScript and Vue.Js**
 
 - 📫 How to reach me **matheuscxy@gmail.com**
 
